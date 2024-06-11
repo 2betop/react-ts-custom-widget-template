@@ -1,6 +1,6 @@
 {
-  "name": "react-ts-custom-widget-template",
-  "version": "1.0.0",
+  "name": "amis-react-custom-component-test",
+  "version": "1.0.1",
   "description": "amis自定义组件模板（react&ts技术栈）",
   "keywords": [
     "自定义组件模板",
@@ -64,7 +64,8 @@
     "amis-widget": "^3.2.0",
     "antd": "^3.26.20",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "css-loader": "https://github.com/2betop/react-ts-custom-widget-template/raw/main/css-loader-6.11.0.tgz"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
